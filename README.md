@@ -1,22 +1,32 @@
 # PORTFOLIO
-## ABOUT ME
-I have completed courses in the field of testing. In my work I focus on delivering solutions that lead to the enhancement of satisfaction with the offered services/products. In my professional career the main pillars of my work are perfectionism, attention t o detail and precision. I can find and solve problems.  have analytical skills. I can work in a team and communicate on a high and effective level.
-#### MY CV [*polish*](https://drive.google.com/file/d/1elAQlbcxUQcUetfsdC4s9OqtNXqUNGZH/view?usp=share_link) *&* [*english*](https://drive.google.com/file/d/1YxBOrRkVxlLRf2zsKugiUWFe7413ZeAs/view?usp=share_link)
-#### MY LinkedIn [*profile*](https://www.linkedin.com/in/jfk-manualtester)
-
-## TOOLS
+## About me :herb:
+I have completed courses in the field of testing. In my work I focus on delivering solutions that lead to the enhancement of satisfaction with the offered services/products. In my professional career the main pillars of my work are perfectionism, attention to detail and precision. I can find and solve problems. I have analytical skills. I can work in a team and communicate on a high and effective level.
+Every day I take my testing skills to the next level because I am open to learn new tools and technical skills.
+#### You are welcome to check my [LinkedIn profile](https://www.linkedin.com/in/jfk-manualtester)
+## Courses
+* Testy Automatyczne w praktyce (+ Python) - DareIT - 2023r.
+* QA Challenge - DareIT - 2022r.
+* Individual course W. Szafraniec - QA manual tester - 2022r.
+## Certificates
+* [Dare IT QA Challenge - Manual Testing](https://drive.google.com/file/d/1mU8xi6xQksRtJzUMMukjez1LJoZWG5OK/view?usp=sharing)
+* [QA Manual Tester - individual course](https://drive.google.com/file/d/17BJ62wX9C7qqnuFXlXe0rO6wsl8znUlr/view?usp=share_link)
+## Tools
 - [x] Jira
+- [x] Qmetry
 - [x] TestLink
 - [x] MantisBT
-- [x] GitHub
-## TECH SKIILS
+- [x] Git, GitHub. GitHub Desktop
+- [x] Chrome DevTools
+- [x] PyCharm
+- [x] Slack
+## Tech skills
 - [x] Software testing (web & mobile app)
 - [x] Creating test cases
 - [x] Reporting bugs
 - [x] Writing test reports
-- [x] SQL
+- [x] MySQL
 - [x] SCRUM
-## SOFT SKILLS
+## Soft skills
 - [x] Accuracy and precision
 - [x] Analytical skills
 - [x] Liability
@@ -24,11 +34,10 @@ I have completed courses in the field of testing. In my work I focus on deliveri
 - [x] Efficient decision making
 - [x] Very good work organization
 - [x] Building and maintaining relationships
-## CERTIFICATES
-* [QA manual tester - individual course](https://drive.google.com/file/d/17BJ62wX9C7qqnuFXlXe0rO6wsl8znUlr/view?usp=share_link)
-## COURSES
-* 30.08.2022 - Individual course W. Szafraniec - QA manual tester
-* 11 - 12.2022 - QA Challenge - DARE IT
+## My repositories
+* [QA Challenge](https://github.com/JoannafKonik/challenge_portfolio_Joanna.git)
+* [Automated testing Challenge](https://github.com/JoannafKonik/challenge_Automated-Testing_Joanna.git)
+* [Robot Framework](https://github.com/JoannafKonik/challenge_robotframework.git)
 ## MY TEST CASE EXAMPLES :page_facing_up:
 
 * [Test cases for Scouts Panel based on User Story](https://docs.google.com/spreadsheets/d/1pktYOvva2EH0U7ixQA7B8eZjI_xEWv-k/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
@@ -55,12 +64,13 @@ I have completed courses in the field of testing. In my work I focus on deliveri
 
 * [e-shop bonito.pl](https://docs.google.com/spreadsheets/d/1pKMm1YYPaw75XNgC7yY1UMwpPGLs-o_1/edit?usp=sharing&ouid=102495179488717236756&rtpof=true&sd=true)
 
-## OTHER
-#### MY MINDMAP FOR
-* [e-shop bonito.pl](https://drive.google.com/file/d/15QKc5sE8oCprt1LSJ4_3Yw5NqR3Hqpfz/view?usp=sharing)
-
-#### ABOUT FOCUSLY APP
+* #### ABOUT FOCUSLY APP
 * [FOCUSLY APP](https://docs.google.com/document/d/1SJodP3tiMKRbOFYyZUMap0_jajzQr2VYZr6xEJj_gr8/edit?usp=sharing)
-## GROUPS ON FACEBOOK
+
+## Other
+### Grups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
+### Blogs
+* [testerzy.pl](https://testerzy.pl/)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
