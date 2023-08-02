@@ -56,11 +56,11 @@ Every day I take my testing skills to the next level because I am open to learn 
 
 ### Bugs :bug:
 
-* [Scouts Panel - manual tests](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing) ⚽
+* [Scouts Panel - manual tests](https://docs.google.com/spreadsheets/d/1073vGUSzrlxxvDqCOZxLaYZnBjw61Y7Dt4xAeBSQcXA/edit?usp=sharing)
 
-* [Scouts Panel - automated tests](https://docs.google.com/spreadsheets/d/1MJzN26rrBcYfd-iRbE1kAuoAh4z_zWOBPlpuZFxOk9k/edit?usp=sharing) 🏈
+* [Scouts Panel - automated tests](https://docs.google.com/spreadsheets/d/1MJzN26rrBcYfd-iRbE1kAuoAh4z_zWOBPlpuZFxOk9k/edit?usp=sharing)
 
-* [FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing) 🙏 
+* [FOCUSLY APP](https://docs.google.com/spreadsheets/d/1OTbKdH6J0KUXovK25_keQevShC6WpW79u7h-hneiXs8/edit?usp=sharing)
 
 ### Reports :clipboard:
 
